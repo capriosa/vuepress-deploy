@@ -2,13 +2,11 @@
 
 Starter template for a [VuePress](https://vuepress.vuejs.org) site
 
-## Getting Started
-
-### One-click Deploy
+## One-click Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/anishkny/vuepress-base)
 
-### Local Development
+## Local Development
 
 To try it out locally, clone this repo and generate a static site
 
