@@ -16,7 +16,7 @@ footer: MIT Licensed | VuePress Copyright © 2018-present Evan You
 
 # VuePress Deploy
 
-This is a Starter template for a [VuePress](https://vuepress.vuejs.org) site and/or a Progressive Web App (PWA)
+This is a Starter template for a [VuePress](https://vuepress.vuejs.org) site and/or a Progressive Web App (PWA).
 
 ## One-click Deploy
 
@@ -24,7 +24,7 @@ This is a Starter template for a [VuePress](https://vuepress.vuejs.org) site and
 
 ## Local Development
 
-To try it out locally, clone this repo and generate a static site
+To try it out locally, clone this repo and generate a static site.
 
 ```bash{3}
 git clone https://github.com/capriosa/vuepress-deploy
