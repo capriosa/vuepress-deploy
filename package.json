@@ -2,9 +2,10 @@
   "name": "vuepress",
   "version": "1.0.0",
   "description": "Starter template for a VuePress site",
-  "author": "Anish Karandikar <anishkny@gmail.com>",
+  "author": "Meinolf Droste <mdwp.post@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "dev": "vuepress dev",
     "build": "vuepress build"
   },
   "devDependencies": {
