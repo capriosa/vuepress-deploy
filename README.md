@@ -4,7 +4,7 @@ actionText: Hello VuePress →
 actionLink: /docs/
 features:
 - title: One-click Deploy
-  details: Use the ”Deploy to Netlify“ Button below to create an new VuePress installation with one simple click.
+  details: Use the ”Deploy to Netlify“ button below to create a new VuePress installation with one simple click.
 - title: Github
   details: You need a Github account. Otherwise the Deploy Button doesn't work.
 - title: Netlify
@@ -26,7 +26,7 @@ This is a Starter template for a [VuePress](https://vuepress.vuejs.org) site and
 
 To try it out locally, clone this repo and generate a static site
 
-```bash
+```bash{3}
 git clone https://github.com/capriosa/vuepress-deploy
 cd vuepress-deploy
 npm install
