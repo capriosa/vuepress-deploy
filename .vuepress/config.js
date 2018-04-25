@@ -25,7 +25,7 @@ module.exports = {
 
         nav: [{
                 text: 'Start',
-                link: '/doc/',
+                link: '/docs/',
             }
 
         ]
