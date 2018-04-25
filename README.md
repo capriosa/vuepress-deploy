@@ -4,7 +4,7 @@ actionText: Hello VuePress →
 actionLink: /docs/
 features:
 - title: One-click Deploy
-  details: Use the ”Deploy to Netlify Button” below to create an new VuePress installation with one simple click.
+  details: Use the ”Deploy to Netlify“ Button below to create an new VuePress installation with one simple click.
 - title: Github
   details: You need a Github account. Otherwise the Deploy Button doesn't work.
 - title: Netlify
