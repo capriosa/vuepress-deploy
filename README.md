@@ -10,7 +10,7 @@ features:
   details: You need a Github account. Otherwise the Deploy Button doesn't work.
 - title: Netlify
   details: The “Deploy to Netlify” button helps users deploy new sites from templates with one single click on Netlify.
-footer: MIT Licensed | VuePress Copyright © 2018-present Evan You
+
 ---
 
 

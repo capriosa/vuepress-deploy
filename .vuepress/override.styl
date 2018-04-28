@@ -5,16 +5,38 @@ $codeBgColor = #282c34
 
 .front {
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9)), url("/front.jpg");
-    max-height: 83vh;
     background-size: cover;
     padding-top: 10%;
+    
+    
 }
 
+body
+   overflow-x: hidden !important;  
+
+@media (min-width: 1000px)
+    .front
+        max-height: 85vh;
+    .home .features 
+        margin-bottom: 170px !important;
 
 
-.front .features {
-    margin-bottom: 170px;
-}
+@media  (max-width:999px) 
+    .content.custom 
+    
+        background: #fff;
+        position: absolute;
+        padding: 20px 30px 0 20px !important;
+        margin: 0;
+        max-width: 100%;
+        left: 0;
+        overflow-x: hidden !important;
+
+
+
+
+
+
 
 .home .hero, .home .description, .home .feature h2, .home .feature p{
     color: #fff !important;
