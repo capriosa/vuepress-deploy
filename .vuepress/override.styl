@@ -11,6 +11,19 @@ $codeBgColor = #282c34
     
 }
 
+h1, h2, h3 {
+    border-bottom: none !important;
+}
+
+.content h1:after,.content h2:after,.content h3:after {
+    content: ""; /* This is necessary for the pseudo element to work. */ 
+    display: block; /* This will put the pseudo element on its own line. */
+    margin: 0 0; /* This will center the border. */
+    width: 5%; /* Change this to whatever width you want. */
+    padding-top: 20px; /* This creates some space between the element and the border. */
+    border-bottom: 3px solid #4527a0; /* This creates the border. Replace black with whatever color you want. */
+}
+
 body
    overflow-x: hidden !important;  
 
