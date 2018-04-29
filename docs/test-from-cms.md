@@ -2,4 +2,4 @@
 title: Hallo from CMS
 ---
 
-Lorem Ipsum
+Lorem Ipsum tralala
