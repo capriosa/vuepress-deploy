@@ -5,7 +5,6 @@ backend:
 
 public_folder: ".vuepress/dist/"
 media_folder: ".vuepress/dist/"
-publish_mode: editorial_workflow
 
 collections:
   - name: "doc"
