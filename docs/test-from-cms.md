@@ -1,5 +1,5 @@
 ---
-title: Test from CMS
+title: Hallo from CMS
 ---
 
 Lorem Ipsum
