@@ -31,6 +31,10 @@ module.exports = {
             {
                 text: 'Admin',
                 link: '/admin',
+            },
+            {
+                text: 'NetlifyCMS Config Help',
+                link: '/docs/netlifycms-configuration.html',
             }
 
         ]
