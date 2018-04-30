@@ -221,3 +221,8 @@ Like links, Images also have a footnote style syntax
 ::: warning
 _here be dragons_
 :::
+```
+::: warning
+_here be dragons_
+:::
+```
