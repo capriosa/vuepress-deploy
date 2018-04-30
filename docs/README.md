@@ -1,7 +1,7 @@
 ---
 title: Markdown examples
 ---
-Bearbeitet am 30.04.2018
+Edit on 30.04.2018 with NetlifyCMS
 # h1 HmHm 8-)
 ## h2 Heading
 ### h3 Heading
