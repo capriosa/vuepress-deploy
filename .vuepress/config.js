@@ -29,7 +29,7 @@ module.exports = {
                 link: '/docs/',
             },
             {
-                text: 'CMS',
+                text: 'Admin',
                 link: '/admin/',
             }
 
