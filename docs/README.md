@@ -1,6 +1,5 @@
 ---
 title: Markdown examples
-sidebar: auto
 ---
 Edit on 30.04.2018 with NetlifyCMS
 # h1 HmHm 8-)
@@ -10,6 +9,14 @@ Edit on 30.04.2018 with NetlifyCMS
 ##### h5 Heading
 ###### h6 Heading
 
+```
+# h1 HmHm 8-)
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading
+```
 
 ## Horizontal Rules
 
