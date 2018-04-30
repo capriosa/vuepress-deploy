@@ -1,6 +1,7 @@
 ---
 title: NetlifyCMS configuration
 ---
+# NetlifyCMS configuration
 In '.vuepress/public/config.yml' change the repo name
 
 ```
