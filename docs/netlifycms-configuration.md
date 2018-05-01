@@ -1,7 +1,9 @@
 ---
-title: NetlifyCMS configuration
+title: NetlifyCMS
 ---
-# NetlifyCMS configuration
+# NetlifyCMS
+
+## NetlifyCMS configuration
 In '.vuepress/public/config.yml' change the repo name
 
 ```
@@ -21,4 +23,6 @@ When you complete the registration, you’ll be given a Client ID and a Client S
     Select GitHub and enter the Client ID and Client Secret, then save.
 
 Now you can loggin to your NetlifyCMS with '/admin' after the URL of your site.
+
+## Bedienung des CMS
 
